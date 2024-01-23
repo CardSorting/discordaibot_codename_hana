@@ -1,0 +1,7 @@
+{"level":30,"time":1702605118688,"pid":99,"hostname":"3fb29fc26855","msg":"Initializing SQLite database at /home/runner/HanaBot-Gemini/sqlite/credits.db"}
+{"level":30,"time":1702605118707,"pid":99,"hostname":"3fb29fc26855","msg":"Ensuring UserCredits table exists"}
+{"level":30,"time":1702605118707,"pid":99,"hostname":"3fb29fc26855","msg":"CreditManager instance created."}
+{"level":30,"time":1702605118708,"pid":99,"hostname":"3fb29fc26855","msg":"Initializing SQLite database at /home/runner/HanaBot-Gemini/sqlite/credits.db"}
+{"level":30,"time":1702605118708,"pid":99,"hostname":"3fb29fc26855","msg":"Ensuring UserCredits table exists"}
+{"level":30,"time":1702605118708,"pid":99,"hostname":"3fb29fc26855","msg":"CreditManager instance created."}
+{"level":30,"time":1702605118712,"pid":99,"hostname":"3fb29fc26855","msg":"CreditHandler initialized"}
